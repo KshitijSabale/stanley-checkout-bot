@@ -1,0 +1,39 @@
+// puppeter tips 
+
+so you don’t want to use xpath ever
+always use the direct selector
+
+don't use xpath using puppeter
+use direct selector 
+
+waitForNavigation() 
+
+await page.waitForNavigation({ waitUntil: 'networkidle0', timeout: 50000 }); 
+
+used for naivgation means if i clicked button then page is reloaded new page is loading then it will wait till navigation is over
+
+
+Project Collaboration Guidelines
+
+How to communicate effectively in project groups:
+- How to provide clear details and information
+- What procedures should be followed?
+- "You can join my project" - proper invitation process
+
+Before starting any project work:
+Key things to clarify with the client/project owner before beginning:
+- Payment structure (per project, monthly, per task, etc.)
+- Project goals and objectives
+- Timeline and deadlines
+- Should I create a formal contract or agreement?
+
+
+
+Week 2 - provide week 2 access as well
+
+
+any coding guidelines or personal notes that you have while using puppeter that you can share 
+what to use what not to use 
+
+
+
